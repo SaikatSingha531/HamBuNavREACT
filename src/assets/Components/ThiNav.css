@@ -1,0 +1,6 @@
+body {
+    padding-top: 3rem; /* Adjust based on the navbar height */
+}
+
+
+/* you havr to import this css file nither the component gets behind the navbar  */
