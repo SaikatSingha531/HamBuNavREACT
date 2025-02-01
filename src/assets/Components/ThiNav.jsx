@@ -9,7 +9,7 @@ function ThiNav() {
     console.log(menu)
   return (
     <>
-    <nav className='bg-amber-300 p-3 fixed w-full top-0 left-0 z-50' >
+    <nav className='bg-amber-300 p-3 fixed w-full top-0 left-0 z-50 shadow-lg' >
         <div className='flex justify-between items-center'>
             <div>Lodo</div>
 
